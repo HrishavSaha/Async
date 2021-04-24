@@ -28,8 +28,8 @@ function preload(){
   ground = loadImage("../images/ground.png");
   f1Image = loadImage("../images/f1.png");
 
-  carSound = loadSound("../sound/car.mp3");
-  sliding = loadSound("../sound/sliding.mp3");
+  carSound = loadSound("../sounds/car.mp3");
+  sliding = loadSound("../sounds/sliding.mp3");
 
   goldImage = loadImage("../images/gold.png");
   silverImage = loadImage("../images/silver.png");
